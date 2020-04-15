@@ -1,0 +1,75 @@
+/* NavBar */
+.navbar {
+    text-align: center;
+    background-color:bisque;
+    word-spacing: 30px;  
+    padding: 12px;
+}
+
+.nav-links {
+    color:gray;
+    text-decoration: none;
+    font-size: 30; 
+}
+
+.nav-links:active {
+    color: red;
+}
+
+
+/* Home Page */
+.yellow {
+    background-image: url(https://images.pexels.com/photos/1253718/pexels-photo-1253718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+   background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+#title {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 100;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#F94717;   
+}
+/* About Page */
+
+.about {
+background-image:url(https://images.pexels.com/photos/1553962/pexels-photo-1553962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) ;
+}
+
+.aboutText {
+    margin-top: 200px;
+    text-align: center;
+    font-size: 45;
+    font-family: sans-serif;
+    color:rgb(236, 219, 150);
+    font-variant: small-caps;
+    font-weight: 700;
+    background-color: rgb(138, 155, 212);
+    
+}
+
+/* Gallery Page */
+
+.galleryBody {
+    background-image: url(https://images.pexels.com/photos/450066/pexels-photo-450066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+
+.container {
+    padding: 200px 150px 150px 200px;
+}
+
+/* Contact Page */
+
+.contactBody {
+    background-image: url(https://images.pexels.com/photos/290522/pexels-photo-290522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+
+.contactForm {
+    font-size: 33;
+    color: rgb(236, 226, 238);
+    padding: 250px 200px 300px 480px;
+   
+}
